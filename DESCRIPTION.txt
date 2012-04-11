@@ -1,0 +1,13 @@
+Package: twitteRanalysis
+Version: 1.0
+Date: 2012-04-07
+Title: TwitteRanalysis
+Author: Jeffrie van der Tol
+Maintainer: Jeffrie van der Tol <jvandertol@gmail.com>
+Description: This is a package for analysing Twitter users and searches.
+Packages" to Compstat 2008 in Porto.
+Depends: R(>=2.4.0),twitteR,MASS,gdata,wordcloud
+Suggests:
+License: GPL version 2 or newer
+
+URL: https://github.com/jvdt/R-Twitter-analysis
